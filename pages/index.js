@@ -75,7 +75,7 @@ export default function Home() {
         <div className="max-w-4xl mx-auto text-center">
           <h3 className="text-4xl font-bold text-brown-800 mb-6">Contact Us</h3>
           <p className="text-lg text-gray-700 mb-4">📍 123 Coffee Street, New Delhi, India</p>
-          <p className="text-lg text-gray-700 mb-6">📞 +91 98765 43210</p>
+          <p className="text-lg text-gray-700 mb-6">📞 +91 1234567889</p>
           <a
             href="mailto:hello@cafearoma.com"
             className="bg-brown-700 text-white px-6 py-3 rounded-xl hover:bg-brown-800"
